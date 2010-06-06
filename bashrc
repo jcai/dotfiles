@@ -1,0 +1,9 @@
+#export XMODIFIERS="@im=fcitx"
+export JAVA_HOME=/usr/lib/jvm/java-6-sun
+export JDK_HOME=/usr/lib/jvm/java-6-sun
+export MAVEN_HOME=~/dev-tools/apache-maven-2.0.10
+export GEM_HOME=~/dev-libs/gem-repository
+#export JRUBY_HOME=~/dev-libs/jruby-1.1.6
+export M2_HOME=~/dev-tools/apache-maven-2.0.10
+export ORACLE_HOME=/home/jcai/dev-tools/sqlplus/instantclient_11_2
+export PATH=$PATH:$MAVEN_HOME/bin:$GEM_HOME/bin:~/local/bin:~/dev-libs/appengine-java-sdk-1.2.0/bin:$ORACLE_HOME/bin:/opt/tools/tora
