@@ -152,7 +152,8 @@ if MySys() == "mac"
 elseif MySys() == "windows"
   set gfn=Bitstream\ Vera\ Sans\ Mono:h10
 elseif MySys() == "linux"
-  set gfn=Monospace\ 10
+  set gfn=Monospace\ 12
+  setlocal cul
   set shell=/bin/bash
 endif
 
